@@ -60,7 +60,8 @@ public class CardTrick {
         // add one luckcard hard code 2,clubs
         }
 
-        System.out.println("My Lucky Card is 2 Heart")
+        System.out.println("My Lucky Card is 2 Heart");
+        //final code
 
     }
 }
